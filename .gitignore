@@ -1,2 +1,10 @@
 # Project exclude paths
 /target/
+/.idea/codeStyles/codeStyleConfig.xml
+/.idea/compiler.xml
+/.idea/dbnavigator.xml
+/java-thread-demo.iml
+/.idea/misc.xml
+/.idea/codeStyles/Project.xml
+/.idea/vcs.xml
+/.idea/.gitignore
